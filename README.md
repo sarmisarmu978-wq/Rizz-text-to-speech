@@ -30,4 +30,4 @@
 
 1. **Clone or download this repository:**
    ```bash
-   git clone [https://github.com/your-username/rizz-text-to-speech.git](https://github.com/your-username/rizz-text-to-speech.git)
+   git clone [https://github.com/sarmisarmu978/rizz-text-to-speech.git](https://github.com/your-username/rizz-text-to-speech.git)
